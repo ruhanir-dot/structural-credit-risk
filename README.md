@@ -5,7 +5,7 @@
 1. Implemented a baseline structural credit model (Merton, 1974) in which a firm's equity is modeled as a call option on its assets.
 2. Calibrated unobservable firm asset value and asset volatility using observable equity prices, equity volatility, debt, and risk-free rates.
 3. Applied the model to real firms and identifed systematic weaknesses in its behavior.
-4. Implement **ime-series smoothing step applied to the model-implied default probabilities (PDs)**.
+4. Implement **time-series smoothing step applied to the model-implied default probabilities (PDs)**.
 5. Demonstrated the improved model performs better than the baseline under a clearly defined evaluation criterion.
 6. Documented assumptions, methodology, results, and limitations in a concise technical report provided in `report/`
 
